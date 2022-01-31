@@ -6,7 +6,9 @@ can handle user input and file operations asynchronously. The required file oper
 
 ## Build Description
 
-file_server.c is stable given the following environment:
-    - OS/Kernel: Ubuntu 14.04.6 LTS (GNU/Linux 4.4.0-142-generic i686), kernel given in Lab Ex. 
-    - Compiler: gcc version 4.8.4.
-    - Processor: Multi-core
+file_server.c is stable given the following (personal) environment:<br>
+    - OS/Kernel: Ubuntu 14.04.6 LTS (GNU/Linux 4.4.0-142-generic i686) <br>
+    - Compiler: gcc version 4.8.4. <br>
+    - Processor: Multi-core <br>
+    
+ Execute `make clean && make` to compile the program.
